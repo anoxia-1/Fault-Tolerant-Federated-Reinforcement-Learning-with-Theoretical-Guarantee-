@@ -7,4 +7,4 @@
 
   ```bash
   conda install --yes --file requirements.txt
-- **论文：**[论文链接](https://github.com/facebookresearch/habitat-sim](https://arxiv.org/pdf/2110.14074.pdf)https://arxiv.org/pdf/2110.14074.pdf)
+- **论文：**[论文链接](https://arxiv.org/pdf/2110.14074.pdf)
